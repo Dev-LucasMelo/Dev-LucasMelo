@@ -22,5 +22,5 @@
   <div> 
     <a href="https://www.linkedin.com/in/lucas-messias07/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
     <a href="https://wa.me/qr/FCO7BG4FQAQSA1" target="_blank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
-   
+    <a href="mailto:lucasmelodev@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   </div>
