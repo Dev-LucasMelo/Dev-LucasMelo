@@ -1,4 +1,4 @@
-# Olá, me chamo Lucas Melo e sou Dev web javascript. 
+# Olá, me chamo Lucas Melo e sou Devenvolvedor Web. 
 
 <h3>Sejam bem vindos <3 </h3>
 
